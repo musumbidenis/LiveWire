@@ -23,7 +23,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <livewire:counter />
+        <livewire:contact-form />
     
     @livewireScripts
     <script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
@@ -36,7 +36,7 @@
                 "closeButton": true,
 
                 "progressBar": true
-                
+
             }
         });
         
